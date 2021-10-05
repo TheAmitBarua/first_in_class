@@ -14,5 +14,6 @@ int main(){
     l = m + (t/100)*m + (p/100)*m;
     printf("Total: %.2f", l);
     return 0;
+
 }
 
